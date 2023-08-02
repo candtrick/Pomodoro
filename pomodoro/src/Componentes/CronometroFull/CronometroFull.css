@@ -1,0 +1,7 @@
+.timer_full{
+    display: flex;
+    background-color: rgba(236, 204, 18, 0.685);
+    padding: 4em 0em 2em 0em;
+    border-radius: .4em;
+    max-width: 30em;
+}

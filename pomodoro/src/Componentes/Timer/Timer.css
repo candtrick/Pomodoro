@@ -1,0 +1,9 @@
+.clock_box{
+    display: flex;
+}
+
+.minutes, .seconds, .dois_pontos{
+    font-size: 7em;
+    font-weight: 600;
+}
+
